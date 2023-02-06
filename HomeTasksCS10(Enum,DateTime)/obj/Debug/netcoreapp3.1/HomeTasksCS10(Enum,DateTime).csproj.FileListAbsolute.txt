@@ -1,0 +1,14 @@
+C:\Users\chabo\source\repos\HomeTasksCS10(Enum,DateTime)\HomeTasksCS10(Enum,DateTime)\bin\Debug\netcoreapp3.1\HomeTasksCS10(Enum,DateTime).exe
+C:\Users\chabo\source\repos\HomeTasksCS10(Enum,DateTime)\HomeTasksCS10(Enum,DateTime)\bin\Debug\netcoreapp3.1\HomeTasksCS10(Enum,DateTime).deps.json
+C:\Users\chabo\source\repos\HomeTasksCS10(Enum,DateTime)\HomeTasksCS10(Enum,DateTime)\bin\Debug\netcoreapp3.1\HomeTasksCS10(Enum,DateTime).runtimeconfig.json
+C:\Users\chabo\source\repos\HomeTasksCS10(Enum,DateTime)\HomeTasksCS10(Enum,DateTime)\bin\Debug\netcoreapp3.1\HomeTasksCS10(Enum,DateTime).runtimeconfig.dev.json
+C:\Users\chabo\source\repos\HomeTasksCS10(Enum,DateTime)\HomeTasksCS10(Enum,DateTime)\bin\Debug\netcoreapp3.1\HomeTasksCS10(Enum,DateTime).dll
+C:\Users\chabo\source\repos\HomeTasksCS10(Enum,DateTime)\HomeTasksCS10(Enum,DateTime)\bin\Debug\netcoreapp3.1\HomeTasksCS10(Enum,DateTime).pdb
+C:\Users\chabo\source\repos\HomeTasksCS10(Enum,DateTime)\HomeTasksCS10(Enum,DateTime)\obj\Debug\netcoreapp3.1\HomeTasksCS10(Enum,DateTime).csproj.AssemblyReference.cache
+C:\Users\chabo\source\repos\HomeTasksCS10(Enum,DateTime)\HomeTasksCS10(Enum,DateTime)\obj\Debug\netcoreapp3.1\HomeTasksCS10(Enum,DateTime).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chabo\source\repos\HomeTasksCS10(Enum,DateTime)\HomeTasksCS10(Enum,DateTime)\obj\Debug\netcoreapp3.1\HomeTasksCS10(Enum,DateTime).AssemblyInfoInputs.cache
+C:\Users\chabo\source\repos\HomeTasksCS10(Enum,DateTime)\HomeTasksCS10(Enum,DateTime)\obj\Debug\netcoreapp3.1\HomeTasksCS10(Enum,DateTime).AssemblyInfo.cs
+C:\Users\chabo\source\repos\HomeTasksCS10(Enum,DateTime)\HomeTasksCS10(Enum,DateTime)\obj\Debug\netcoreapp3.1\HomeTasksCS10(Enum,DateTime).csproj.CoreCompileInputs.cache
+C:\Users\chabo\source\repos\HomeTasksCS10(Enum,DateTime)\HomeTasksCS10(Enum,DateTime)\obj\Debug\netcoreapp3.1\HomeTasksCS10(Enum,DateTime).dll
+C:\Users\chabo\source\repos\HomeTasksCS10(Enum,DateTime)\HomeTasksCS10(Enum,DateTime)\obj\Debug\netcoreapp3.1\HomeTasksCS10(Enum,DateTime).pdb
+C:\Users\chabo\source\repos\HomeTasksCS10(Enum,DateTime)\HomeTasksCS10(Enum,DateTime)\obj\Debug\netcoreapp3.1\HomeTasksCS10(Enum,DateTime).genruntimeconfig.cache
